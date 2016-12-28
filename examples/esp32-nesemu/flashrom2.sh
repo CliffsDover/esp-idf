@@ -1,0 +1,1 @@
+python /Users/MyStaub/Documents/git/CliffsDover/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/tty.SLAB_USBtoUART --baud 921600 write_flash -z --flash_mode dio --flash_freq 40m --flash_size 4MB 0x100000 ./smb.nes
