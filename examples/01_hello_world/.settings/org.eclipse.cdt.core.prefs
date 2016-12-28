@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.872636005/IDF_PATH/delimiter=\:
+environment/project/0.872636005/IDF_PATH/operation=append
+environment/project/0.872636005/IDF_PATH/value=/Users/MyStaub/Documents/git/CliffsDover/esp-idf
+environment/project/0.872636005/PATH/delimiter=\:
+environment/project/0.872636005/PATH/operation=replace
+environment/project/0.872636005/PATH/value=/usr/bin\:/bin\:/usr/sbin\:/sbin\:${PATH}\:/Users/MyStaub/Downloads/esp3212/xtensa-esp32-elf/bin
+environment/project/0.872636005/append=true
+environment/project/0.872636005/appendContributed=true
